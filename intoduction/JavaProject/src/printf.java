@@ -15,7 +15,7 @@ public class printf {
         System.out.printf("hello %s\n" , name  );
         System.out.printf("your name start with a  %c\n ", firstletter);
         System.out.printf("%d is my age ", age);
-        System.out.println("your hieght is %g\n ");
+        System.out.printf("your hieght is %g\n thoo ", height );
 
 
 
