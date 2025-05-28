@@ -21,7 +21,7 @@ public class weightConverter {
 
 
 
-        // prompt for user choise 
+        // prompt for user choice 
 
         System.out.print("choose an option: ");
         choice = scanner.nextInt();
@@ -54,7 +54,7 @@ public class weightConverter {
         // else print not a valid choice 
 
             else{
-                System.out.println("that was not  a valid choise ");
+                System.out.println("that was not  a valid choice ");
             }
 
    
