@@ -11,8 +11,8 @@ public class weightConverter {
         double weight ;
         double newWeight;
         int choice ;
-
-
+        
+        
         //welcome message 
 
         System.out.println("weight converter program");
@@ -49,7 +49,7 @@ public class weightConverter {
             System.out.printf("the new weight in lbs is %.2f\n " , newWeight);
 
 
-
+         
          }
         // else print not a valid choice 
 
