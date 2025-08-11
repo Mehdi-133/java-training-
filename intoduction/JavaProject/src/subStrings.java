@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class subStrings {
     public static void main(String[] args) {
         
+       
 
         // .subString() = A method used to extract a portion of a string 
         //         string.substring(start, end )
@@ -30,7 +31,15 @@ public class subStrings {
        else{
         System.out.println("email must contain @ ");
        }
+
+
+       //////////////////////////////////////////////////////////////////////
        
+      
+       
+
+
+
 
 
 
@@ -45,4 +54,9 @@ public class subStrings {
     scanner.close();
     }  
 
-}
+}   
+
+    
+
+
+
